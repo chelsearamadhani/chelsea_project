@@ -340,14 +340,6 @@ section {
   margin-top:-18px;
   margin-left: 340px;
 }
-.container8 {
-  font-size: 3rem;
-  text-align: center;
-  padding: 27rem;
-  background-image: url(../aset/judul\ 3.png);
-  background-size: cover;
-  background-repeat: no-repeat  ;
-}
 .hubungi {
   display: flex;
   flex: 1;
@@ -464,7 +456,4 @@ textarea {
   .footer {
     width: 100%;
   }
-}
-@media (max-width: 450px){
-
 }
